@@ -1,5 +1,3 @@
-# quinkiyes.github.io
-
 # Hello, world!
 
 Привет, мир! Это *мой* первый __сайт__!
